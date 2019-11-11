@@ -17,5 +17,5 @@ test.toLowerCase().occurences('t');
 ```
 If you want to have this method in your string protope just simply place this script inside you html file:
 ```html
-<script src="https://github.com/jedluk/occurences/blob/master/index.js"></scirpt>
+    <script src="https://cdn.jsdelivr.net/gh/jedluk/occurences/index.js"></script>
 ```
